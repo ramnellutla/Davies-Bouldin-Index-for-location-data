@@ -1,9 +1,3 @@
-'''
-Created on April 8, 2015
-
-@author: Sai Ram Nellutla
-'''
-
 The code assumes the input to be in the following manner:
 
 "Name of the clustering algorithm input is formed from"
